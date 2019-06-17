@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "559487a6f285b7fa07905fce9991d75c",
+    "revision": "434dfc5f6ca606ab23de88b056386917",
     "url": "/githubtest/index.html"
   },
   {
-    "revision": "9ef0afe9923d2457f888",
+    "revision": "9e9b0da6fc51713abbd7",
     "url": "/githubtest/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "43d1f55c2a696b4563b8",
-    "url": "/githubtest/static/js/2.179f4c70.chunk.js"
+    "revision": "efc3d230fd1e1b3caa34",
+    "url": "/githubtest/static/js/2.bbcd3f81.chunk.js"
   },
   {
-    "revision": "9ef0afe9923d2457f888",
-    "url": "/githubtest/static/js/main.9c2811fe.chunk.js"
+    "revision": "9e9b0da6fc51713abbd7",
+    "url": "/githubtest/static/js/main.ee4312cf.chunk.js"
   },
   {
     "revision": "a547f722b93d7153b63d",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6b28865854d643a85358ec3ff19fad9f",
     "url": "/githubtest/static/media/job2.6b288658.jpg"
+  },
+  {
+    "revision": "25f2d397f7fb9f96c53a1c516413e62c",
+    "url": "/githubtest/static/media/job3.25f2d397.jpg"
   },
   {
     "revision": "9135a319f372f5386ab8a6b98d433eb0",
