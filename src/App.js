@@ -8,7 +8,7 @@ class App extends React.Component {
   render() {
   return (
     <div className="App">
-     <h1>testing git bash for CI\CD for github</h1>
+     <h1>Testing git bash for CI\CD form visual studio</h1>
         <Images/>
     </div>
   );
